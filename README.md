@@ -2,6 +2,13 @@
 
 Perl scripts to be used in Materials Studio 2021.
 
+- ZPerl_ScriptEVA01.pl --> To create a random single chain copolymer (https://youtu.be/jU9FoTXgQ8A)
+
+### Citation
+If you use some of these scripts, please cited as:
+
+Javier Ramos, bunch_MaterialsStudioScripts, (2021), GitHub repository, https://github.com/jrdcasa/bunch_MaterialsStudioScripts
+
 ### Disclaimer
 
 This piece of software is provided to you as a courtesy. Under no circumstances are you required to download and install this software.
