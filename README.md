@@ -3,6 +3,9 @@
 Perl scripts to be used in Materials Studio 2021.
 
 - ZPerl_ScriptEVA01.pl --> To create a random single chain copolymer (https://youtu.be/jU9FoTXgQ8A)
+- AC_build_multi.pl --> Create an amorphous cell of pure or blend polymers.
+
+Some examples using these scripts can be found in: https://github.com/jrdcasa/Tutorial_Random_Copolymer.git
 
 ### Citation
 If you use some of these scripts, please cited as:
