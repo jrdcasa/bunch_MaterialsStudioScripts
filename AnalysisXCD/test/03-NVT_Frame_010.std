@@ -1,0 +1,5960 @@
+<?xml version="1.0" encoding="latin1"?>
+<studyTableDocument>
+	<data>
+		<models/>
+		<predictions/>
+		<fields>
+			<field id="Frame" type="long" description="Frame"/>
+			<field id="Cohesive Energy Density" type="double" description="Cohesive Energy Density"/>
+			<field id="Solubility parameter" type="double" description="Solubility parameter"/>
+			<field id="Cell volume" type="double" description="Cell volume"/>
+			<field id="Inter Potential energy" type="double" description="Inter Potential energy"/>
+			<field id="Inter van der Waals energy" type="double" description="Inter van der Waals energy"/>
+			<field id="Inter Electrostatic  energy" type="double" description="Inter Electrostatic  energy"/>
+			<field id="Inter other  energy" type="double" description="Inter other  energy"/>
+			<field id="van der Waals Cohesive Energy Density" type="double" description="van der Waals Cohesive Energy Density"/>
+			<field id="Electrostatic Cohesive Energy Density" type="double" description="Electrostatic Cohesive Energy Density"/>
+			<field id="van der Waals solubility" type="double" description="van der Waals solubility"/>
+			<field id="Electrostatic solubility" type="double" description="Electrostatic solubility"/>
+			<field id="Other solubility" type="double" description="Other solubility"/>
+			<field id="{3c8cbe96-b804-ec11-9963-e7c6697351ff}"/>
+			<field id="{ce8bbe96-b804-ec11-9e4b-e7c6697351ff}"/>
+			<field id="{6a8bbe96-b804-ec11-9ac5-e7c6697351ff}"/>
+			<field id="{068bbe96-b804-ec11-9473-e7c6697351ff}"/>
+			<field id="{a28abe96-b804-ec11-84c5-e7c6697351ff}"/>
+			<field id="{3e8abe96-b804-ec11-9c7b-e7c6697351ff}"/>
+			<field id="{da89be96-b804-ec11-9ea8-e7c6697351ff}"/>
+			<field id="{8089be96-b804-ec11-9f23-e7c6697351ff}"/>
+			<field id="{3089be96-b804-ec11-84bd-e7c6697351ff}"/>
+			<field id="{d688be96-b804-ec11-8847-e7c6697351ff}"/>
+			<field id="{7288be96-b804-ec11-8bd0-e7c6697351ff}"/>
+			<field id="{d287be96-b804-ec11-8a0b-e7c6697351ff}"/>
+			<field id="{6e87be96-b804-ec11-9ae5-e7c6697351ff}"/>
+			<field id="{6a86be96-b804-ec11-89a1-e7c6697351ff}"/>
+			<field id="{e47fbe96-b804-ec11-9700-e7c6697351ff}"/>
+		</fields>
+		<systems>
+			<system id="{2c29c896-b804-ec11-8256-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">1</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">490608075.7131</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.1496743929364</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-925.872532318442</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-454.120884308035</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-471.751648010407</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-5.6843418860808e-14</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">240632879.164914</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">249975196.548187</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.5123460238906</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.8106039273706</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">1.73552886692635e-07</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{6a04c896-b804-ec11-8c79-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">2</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">491923002.809446</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.17933729419</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-928.354054618576</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-463.894276274555</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-464.45977834402</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">245811675.228642</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">246111327.580804</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6783824174767</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6879357335758</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{d6dec796-b804-ec11-8dd2-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">3</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">493278897.509398</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.2098828792364</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-930.912890727372</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-453.058808499057</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-477.854082228315</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">240070098.705708</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">253208798.80369</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.4941956456509</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.9125359010967</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{14bac796-b804-ec11-8cd7-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">4</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">489809214.565426</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.1316337979243</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-924.364926491339</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-443.879435661673</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-480.485490829666</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-5.6843418860808e-14</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">235206065.821262</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">254603148.744163</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.3364293700086</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.9562886895469</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">1.73552886692635e-07</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{0c95c796-b804-ec11-8e03-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">5</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">495827720.505297</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.2671893265696</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-935.723013753199</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-462.379261391138</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-473.343752362061</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">245008888.116285</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">250818832.389012</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6527597603836</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.8372608865615</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{4a70c796-b804-ec11-89c3-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">6</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">494559871.938483</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.2387021190195</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-933.330337763416</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-452.31089485831</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-481.019442905106</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-5.6843418860808e-14</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">239673788.782605</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">254886083.155878</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.4814013830339</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.9651521494747</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">1.73552886692635e-07</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{144cc796-b804-ec11-8b08-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">7</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">488316822.333595</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.0978918074461</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-921.548493082883</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-472.526467495526</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-449.022025587356</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">250385763.53592</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">237931058.797675</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.8235825126904</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.4250140615066</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{8427c796-b804-ec11-92c2-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">8</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">487292404.907661</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.0747005621291</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-919.615218839645</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-450.769023037171</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-468.846195802473</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">238856770.52063</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">248435634.387031</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.4549917670839</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.7618410849441</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{8e04c796-b804-ec11-94a8-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">9</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">481062579.543791</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">21.9331388438543</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-907.858330865136</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-455.503368089335</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-452.354962775801</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">241365439.73235</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">239697139.811442</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.5359402590365</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.4821555285897</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{dae0c696-b804-ec11-8c7a-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">10</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">493748163.612754</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.2204447213091</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-931.798486821187</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-455.759538030436</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-476.038948790751</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">241501180.925086</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">252246982.687668</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.5403082635154</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.8822851846851</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{84bec696-b804-ec11-8d16-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">11</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">493631845.605784</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.2178272026268</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-931.578972196379</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-438.321789224586</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-493.257182971793</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">232261139.679901</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">261370705.925883</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.2401161307879</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">16.1669634107919</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{769ac696-b804-ec11-8c49-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">12</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">482275661.342615</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">21.9607755177866</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-910.147651348404</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-456.784292700536</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-453.363358647868</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">242044185.387609</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">240231475.955007</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.5577692934305</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.4994024386428</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{9e77c696-b804-ec11-95aa-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">13</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">480863214.495533</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">21.9285935366483</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-907.482090376599</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-464.367183846256</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-443.114906530342</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">246062262.934448</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">234800951.561085</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6863718856352</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.3232160971868</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{c055c696-b804-ec11-96c1-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">14</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">487574350.974653</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.0810858196478</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-920.147305717024</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-455.997749928316</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-464.149555788708</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">241627406.379187</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">245946944.595467</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.5443689604688</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6826957056326</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{2433c696-b804-ec11-9709-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">15</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">497169763.154934</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.2973039436371</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-938.255708358138</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-471.98310315725</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-466.272605200888</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">250097841.685873</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">247071921.46906</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.8144820239511</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.7185216057064</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{3612c696-b804-ec11-850a-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">16</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">503375558.183792</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.4360325856376</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-949.967246432735</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-460.512602252942</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-489.454644179792</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">244019769.187021</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">259355788.996771</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6211321352526</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">16.104526972152</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{08f0c596-b804-ec11-8539-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">17</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">483560624.574113</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">21.9900119275573</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-912.572626027741</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-450.583213290457</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-461.989412737284</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-5.6843418860808e-14</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">238758312.299761</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">244802312.274352</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.4518061177249</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6461596653732</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">1.73552886692635e-07</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{f2cec596-b804-ec11-8d96-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">18</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">498415895.71273</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.3252300259758</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-940.607402029741</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-445.683321128413</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-494.924080901328</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">236161921.780644</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">262253973.932086</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.3675606971518</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">16.1942574368844</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{7caec596-b804-ec11-8483-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">19</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">500817286.633965</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.3789473978104</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-945.139292154253</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-450.751108647893</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-494.388183506359</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">238847277.913663</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">261970008.720302</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.4546846591467</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">16.185487596001</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{5c8dc596-b804-ec11-95c1-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">20</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">495557939.240351</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.2611306819836</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-935.213884215156</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-438.038678105845</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-497.175206109311</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">232111122.699885</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">263446816.540466</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.2351935563643</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">16.2310448382249</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{9a6dc596-b804-ec11-89d4-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">21</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">485000490.275023</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.0227266766634</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-915.289931691254</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-449.885899514927</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-465.404032176327</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-5.6843418860808e-14</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">238388814.601493</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">246611675.67353</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.4398450316541</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.7038745433581</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">1.73552886692635e-07</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{e84cc596-b804-ec11-8d8d-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">22</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">494703908.745387</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.2419403098153</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-933.602163136371</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-441.676157340884</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-491.926005795486</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">234038576.669688</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">260665332.075699</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.298319406709</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">16.1451333867422</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{c22cc596-b804-ec11-986d-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">23</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">482913634.379549</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">21.9752960020917</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-911.351630125961</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-459.955666017967</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-451.395964107994</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">243724655.761578</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">239188978.617971</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6116833096748</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.4657356313229</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{780dc596-b804-ec11-93ac-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">24</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">483558023.239115</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">21.9899527793744</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-912.567716804389</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-461.278682899995</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-451.289033904395</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-5.6843418860808e-14</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">244425705.57564</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">239132317.663474</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6341199168882</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.4639037006661</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">1.73552886692635e-07</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{deedc496-b804-ec11-9faf-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">25</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">488457608.261474</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.1010770837413</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-921.814183417006</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-435.812356656364</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-486.001826760642</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">230931423.287576</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">257526184.973898</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.1964279779025</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">16.0476224087526</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{16cfc496-b804-ec11-9469-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">26</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">497961214.260992</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.3150445722385</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-939.749330000439</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-454.148424061655</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-485.600905938784</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-5.6843418860808e-14</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">240647472.12999</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">257313742.131001</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.5128163829135</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">16.0410019054609</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">1.73552886692635e-07</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{02b1c496-b804-ec11-8f62-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">27</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">490781898.04543</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.153597857807</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-926.200568751134</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-460.997711181132</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-465.202857570002</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">244276822.236402</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">246505075.809028</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6293577038982</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.7004801139656</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{5293c496-b804-ec11-9a61-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">28</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">488612456.988128</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.1045800002653</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-922.106412978179</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-453.463404052614</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-468.643008925565</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-5.6843418860808e-14</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">240284488.742181</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">248327968.245948</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.5011125001459</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.7584253098445</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">1.73552886692635e-07</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{1076c496-b804-ec11-82fc-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">29</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">487392134.533487</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.0769593588766</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-919.803427973945</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-451.577325849399</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-468.226102124545</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-5.6843418860808e-14</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">239285079.897416</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">248107054.636071</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.4688422287324</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.7514143693851</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">1.73552886692635e-07</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{b058c496-b804-ec11-9cc0-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">30</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">485467951.404704</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.0333372734297</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-916.172121449891</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-462.20969683392</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-453.962424615971</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-5.6843418860808e-14</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">244919038.014655</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">240548913.39005</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6498893930486</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.5096393700837</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">1.73552886692635e-07</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{743ac496-b804-ec11-8c0c-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">31</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">487366044.747793</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.0763684682919</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-919.754191491416</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-452.98579108541</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-466.768400406006</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">240031407.707161</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">247334637.040632</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.4929470310577</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.7268762645553</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{421cc496-b804-ec11-97e4-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">32</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">487989842.824444</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.0904921363116</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-920.931419371419</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-446.222288814454</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-474.709130556965</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">236447513.900607</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">251542328.923837</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.3768499342553</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.8600860314135</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{66fdc396-b804-ec11-8695-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">33</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">493679702.290818</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.2189041649407</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-931.66928703699</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-449.170277960987</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-482.499009076003</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">238009615.844362</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">255670086.446457</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.4275602686997</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.9896868776864</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{7adfc396-b804-ec11-9351-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">34</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">490516234.335979</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.147601096642</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-925.699209838408</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-466.689069726905</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-459.010140111503</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">247292600.72304</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">243223633.612939</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.7255397593545</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.5956286700133</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{24c2c396-b804-ec11-894e-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">35</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">511032955.512229</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.6060380321769</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-964.418239407408</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-464.748319409925</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-499.669919997484</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">246264221.820742</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">264768733.691487</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6928079648208</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">16.2717157574574</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{36a6c396-b804-ec11-84de-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">36</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">486855270.700202</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.0647970917523</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-918.79026186144</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-461.021138569684</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-457.769123291756</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-5.6843418860808e-14</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">244289236.111547</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">242566034.588656</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6297548320998</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.5745316009393</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">1.73552886692635e-07</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{4489c396-b804-ec11-9f62-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">37</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">490787976.071339</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.1537350365878</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-926.212039164116</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-464.762468957873</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-461.449570206243</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">246271719.486186</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">244516256.585153</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6930468515896</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6370155907434</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{1a6dc396-b804-ec11-8570-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">38</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">500777330.835225</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.3780546704852</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-945.063887817489</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-465.877315888142</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-479.186571929347</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">246862462.691197</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">253914868.144028</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.7118573915116</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.9347064028186</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{d651c396-b804-ec11-99a8-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">39</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">491244675.073564</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.1640401342707</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-927.073918702243</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-443.915980927692</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-483.157937774551</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">235225430.692789</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">256019244.380775</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.3370606927399</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">16.0006013755976</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{ac35c396-b804-ec11-8682-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">40</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">489140323.114832</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.1165169752118</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-923.102598674361</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-472.13677249845</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-450.965826175911</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">250179269.114759</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">238961054.000074</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.8170562720994</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.4583651787656</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{a41ac396-b804-ec11-9835-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">41</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">483514413.28695</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">21.9889611688899</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-912.485416371836</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-452.487843882034</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-459.997572489801</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">239767551.819091</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">243746861.467859</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.4844293346281</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.612394482201</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{4600c396-b804-ec11-9085-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">42</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">483681047.36999</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">21.9927498819495</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-912.799887184838</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-449.057041522876</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-463.742845661963</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">237949613.296426</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">245731434.073564</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.4256154916563</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6758232343174</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{0ce5c296-b804-ec11-80aa-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">43</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">483551703.337905</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">21.98980907916</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-912.555789925835</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-449.029300172135</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-463.5264897537</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">237934913.5076</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">245616789.830305</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.4251390109652</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6721660861001</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{b8cac296-b804-ec11-89e2-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">44</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">493249841.572028</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.2092287477982</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-930.858056541707</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-471.075326736125</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-459.782729805581</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-5.6843418860808e-14</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">249616822.509259</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">243633019.062769</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.7992665180779</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6087481580929</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">1.73552886692635e-07</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{2cb1c296-b804-ec11-85cf-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">45</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">505680860.345497</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.4873488954456</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-954.317798443348</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-461.67849503155</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-492.639303411797</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-5.6843418860808e-14</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">244637560.93765</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">261043299.407847</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6408938663252</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">16.1568344488593</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">1.73552886692635e-07</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{e296c296-b804-ec11-9bbc-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">46</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">476583478.657749</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">21.8307919842077</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-899.405399319233</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-476.292053415293</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-423.11334590394</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">252381099.608158</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">224202379.04959</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.8865068409691</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">14.9733890301959</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{1a7dc296-b804-ec11-9257-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">47</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">483873026.258648</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">21.9971140438615</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-913.162188558567</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-468.863329049923</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-444.298859508644</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">248444713.076882</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">235428313.181766</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.7621290781697</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.3436733926973</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{5664c296-b804-ec11-9b31-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">48</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">494406527.300772</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.2352541541753</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-933.040946709612</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-468.182082292632</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-464.85886441698</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-5.6843418860808e-14</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">248083729.08717</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">246322798.213601</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.750673924857</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6946741990269</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">1.73552886692635e-07</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{244bc296-b804-ec11-8453-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">49</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">490219546.853264</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.1409021237452</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-925.139303052265</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-458.581800629178</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-466.557502423086</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-5.6843418860808e-14</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">242996661.970689</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">247222884.882575</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.5883502004121</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.723322959304</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">1.73552886692635e-07</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{0632c296-b804-ec11-9125-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">50</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">484760072.992832</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.0172676096021</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-914.836217680224</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-462.177245236096</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-452.658972444128</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">244901842.325824</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">239858230.667008</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6493399964926</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.4873571233767</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{9219c296-b804-ec11-8a7e-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">51</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">479849376.90738</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">21.9054645444323</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-905.568782337921</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-443.006772636245</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-462.562009701676</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-5.6843418860808e-14</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">234743652.786307</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">245105724.121073</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.3213463111538</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6558527114007</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">1.73552886692635e-07</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{dc01c296-b804-ec11-901a-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">52</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">485708603.72387</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.0387976923395</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-916.626279021249</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-473.599040031313</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-443.027238989936</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">250954106.07712</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">234754497.64675</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.841531052178</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.3217002204961</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{4ae9c196-b804-ec11-8969-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">53</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">491761498.115234</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.1756961134309</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-928.049263956509</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-460.354574869684</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-467.694689086826</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">243936032.487092</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">247825465.628142</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6184516674058</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.7424733008553</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{4ed1c196-b804-ec11-9c44-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">54</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">481391531.065252</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">21.9406365237031</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-908.479126146059</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-446.385427713931</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-462.093698432128</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">236533959.127949</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">244857571.937303</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.3796605660837</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6479254835043</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{92bac196-b804-ec11-9401-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">55</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">486442429.369957</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.0554399042494</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-918.01115025117</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-464.892054549172</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-453.119095701998</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-5.6843418860808e-14</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">246340385.242397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">240102044.127559</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6952344755469</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.4952264948777</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">1.73552886692635e-07</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{e6a2c196-b804-ec11-90a8-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">56</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">489733074.174772</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.1299135600384</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-924.221234816057</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-464.501608977591</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-459.719625838466</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">246133493.101355</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">243599581.073417</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6886421688225</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6076769915775</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{3a8bc196-b804-ec11-975e-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">57</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">494425566.498762</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.2356822809367</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-933.076877366544</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-476.223244712615</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-456.853632653929</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">252344638.752009</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">242080927.746753</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.885359257883</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.5589500849753</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{ec74c196-b804-ec11-94d3-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">58</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">491754731.197481</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.1755435378139</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-928.036493471093</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-491.247467744123</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-436.78902572697</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-5.6843418860808e-14</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">260305783.394798</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">231448947.802682</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">16.1339946508854</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.2134462829</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">1.73552886692635e-07</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{9e5ec196-b804-ec11-9950-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">59</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">504664126.190605</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.464730717073</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-952.399024021798</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-456.602482740551</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-495.796541281247</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">241947846.602841</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">262716279.587765</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.5546728221085</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">16.2085249047458</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{1448c196-b804-ec11-9967-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">60</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">510463660.018453</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.5934428544756</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-963.343868465401</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-461.602548918892</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-501.741319546509</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">244597318.058756</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">265866341.959696</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6396073498907</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">16.3054083653154</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{6c31c196-b804-ec11-9e05-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">61</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">489647712.000781</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.1279848156307</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-924.06013984818</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-471.574542013867</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-452.485597834314</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">249881350.333803</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">239766361.666978</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.8076358236709</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.4843909039709</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{721cc196-b804-ec11-80ba-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">62</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">499905393.101873</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.3585642003657</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-943.418372308947</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-457.366929265564</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-486.051443043382</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-5.6843418860808e-14</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">242352917.090981</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">257552476.010892</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.5676882384952</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">16.048441544614</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">1.73552886692635e-07</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{e206c196-b804-ec11-94ec-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">63</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">484855514.038785</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.0194349164275</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-915.016333433059</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-459.97831870702</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-455.038014726038</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">243736659.133314</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">241118854.905471</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6120677404793</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.5280022831487</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{7af1c096-b804-ec11-9bb2-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">64</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">487550210.107575</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.0805391715776</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-920.101747221677</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-437.389100328215</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-482.712646893462</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">231766919.699596</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">255783290.407979</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.223893053342</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.9932263914439</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{30dcc096-b804-ec11-8023-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">65</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">488414372.707975</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.1000989298232</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-921.732589547304</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-455.839086434354</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-465.89350311295</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">241543332.612289</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">246871040.095685</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.5416644093318</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.7121303487365</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{e0c7c096-b804-ec11-8ac4-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">66</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">488409756.576437</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.0999944926789</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-921.723878012359</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-467.498866732757</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-454.225011279602</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">247721701.854017</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">240688054.72242</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.7391772927945</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.5141243620908</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{b8b3c096-b804-ec11-9e32-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">67</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">485670093.24237</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.0379239775976</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-916.553602278258</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-456.505634622634</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-460.047967655624</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">241896528.01728</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">243773565.225089</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.55302311505</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6132496689539</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{189fc096-b804-ec11-8dd4-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">68</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">486574180.743128</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.0584265246442</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-918.259790629414</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-473.915928893611</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-444.343861735803</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">251122021.453719</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">235452159.289409</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.8468300127729</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.3444504394719</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{188bc096-b804-ec11-8384-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">69</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">484479233.410237</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.0108889736475</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-914.306218953371</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-449.673994497996</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-464.632224455375</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">238276528.828925</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">246202704.581312</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.4362083695746</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6908477967671</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{b877c096-b804-ec11-8433-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">70</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">490647286.395371</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.1505595052444</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-925.946530476004</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-455.9264232329</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-470.020107243103</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">241589611.27072</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">249057675.124651</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.543153195884</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.781561238504</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{a864c096-b804-ec11-8942-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">71</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">483521263.166924</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">21.9891169255822</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-912.498343423045</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-469.369931830736</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-443.128411592309</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-5.6843418860808e-14</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">248713155.445318</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">234808107.721607</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.7706422014234</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.3234496025408</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">1.73552886692635e-07</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{0251c096-b804-ec11-8cd7-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">72</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">475344318.080658</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">21.8023924852448</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-897.066863126586</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-455.963302670777</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-441.103560455809</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">241609153.215663</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">233735164.864995</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.5437818183241</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.2883996829294</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{d43dc096-b804-ec11-8c5b-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">73</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">473415047.280054</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">21.7581030257707</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-893.425955179673</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-469.243318364781</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-424.182636814893</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">248646064.580513</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">224768982.69954</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.7685149770203</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">14.9922974456732</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{8c2bc096-b804-ec11-8e18-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">74</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">479152124.354452</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">21.8895437219338</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-904.252931623668</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-449.411136541973</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-454.841795081695</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-5.6843418860808e-14</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">238137243.742168</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">241014880.612284</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.4316960747083</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.5246539611124</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">1.73552886692635e-07</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{9e19c096-b804-ec11-9a0a-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">75</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">491942373.540366</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.1797739740595</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-928.390610942407</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-469.197035996544</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-459.193574945863</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">248621540.1424</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">243320833.397967</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.7677373184106</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.5987446096783</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{6007c096-b804-ec11-8a29-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">76</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">486573854.716479</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.0584191345726</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-918.259175353935</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-466.538761535872</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-451.720413818063</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-5.6843418860808e-14</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">247212954.324866</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">239360900.391613</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.7230071654524</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.4712927834623</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">1.73552886692635e-07</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{18f5bf96-b804-ec11-8870-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">77</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">487176224.039854</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.0720688663264</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-919.395963023019</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-466.083160867368</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-453.312802155652</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">246971537.326882</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">240204686.712972</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.7153281011528</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.4985382121338</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{8ee3bf96-b804-ec11-9d82-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">78</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">497287174.386613</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.2999366453498</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-938.47728610987</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-457.992324291758</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-480.484961818112</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">242684305.958943</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">254602868.427671</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.5783280861247</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.9562799056569</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{90d2bf96-b804-ec11-8f32-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">79</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">476530164.217215</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">21.8295708665382</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-899.30478463613</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-474.699391095578</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-424.605393540552</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">251537168.107156</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">224992996.110059</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.8599233323228</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">14.9997665351851</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{14c2bf96-b804-ec11-82f0-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">80</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">495902012.196809</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.2688574515355</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-935.863216574872</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-472.829288674955</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-463.033927899917</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">250546224.626339</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">245355787.57047</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.8286520154541</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6638369364109</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{84b1bf96-b804-ec11-9694-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">81</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">482024717.5708</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">21.955061320133</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-909.674071811128</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-457.608599290707</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-452.065472520421</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">242480974.962723</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">239543742.608077</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.5718006332833</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.477200735536</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{8aa1bf96-b804-ec11-9b04-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">82</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">491997168.532123</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.1810091865118</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-928.49401971264</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-448.194429320438</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-480.299590392202</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-5.6843418860808e-14</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">237492526.064704</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">254504642.467419</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.4107925190337</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.9532016368947</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">1.73552886692635e-07</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{cc91bf96-b804-ec11-9e70-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">83</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">481531987.029093</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">21.9438371081516</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-908.744193774086</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-465.198471824872</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-443.545721949214</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">246502751.85848</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">235029235.170613</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.7004061048904</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.3306632332268</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{a081bf96-b804-ec11-8a1a-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">84</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">483906052.322881</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">21.997864721897</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-913.224515143142</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-464.423887939524</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-448.800627203618</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">246092309.712068</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">237813742.610813</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.687329591491</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.4212108023596</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{6e72bf96-b804-ec11-8c86-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">85</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">492310678.535641</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.1880751426446</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-929.08567385621</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-459.629271426342</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-469.456402429868</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-5.6843418860808e-14</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">243551703.419942</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">248758975.115699</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6061431308297</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.7720948233169</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">1.73552886692635e-07</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{ce62bf96-b804-ec11-9acb-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">86</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">499336726.429363</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.3458436052292</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-942.345188074552</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-463.99654574954</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-478.348642325012</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">245865866.52234</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">253470859.907023</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6801105392258</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.9207681946263</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{f653bf96-b804-ec11-9c5f-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">87</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">500887457.003801</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.3805151192684</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-945.271717243096</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-483.160825910864</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-462.110891332233</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">256020774.767464</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">244866682.236337</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">16.0006491983127</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6482165832512</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{7845bf96-b804-ec11-994d-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">88</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">484832623.659976</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.018915133584</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-914.973134851456</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-472.154135914574</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-442.818998936882</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">250188469.768061</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">234644153.891914</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.8173471153687</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.3180988994038</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{a036bf96-b804-ec11-9832-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">89</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">493083142.468485</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.205475506471</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-930.543463022414</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-459.36019276189</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-471.183270260524</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">243409122.05893</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">249674020.409555</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6015743455245</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.8010765585626</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{b828bf96-b804-ec11-95ca-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">90</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">490363592.872552</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.1441548240738</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-925.411145810775</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-475.74190466005</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-449.669241150725</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">252089582.781873</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">238274010.090679</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.8773292080839</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.4361267839662</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{9e1abf96-b804-ec11-98a4-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">91</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">495157665.282553</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.2521384429127</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-934.4584896726</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-462.146181634028</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-472.312308038572</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-5.6843418860808e-14</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">244885382.118287</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">250272283.164266</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6488140802518</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.8199963073405</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">1.73552886692635e-07</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{420dbf96-b804-ec11-9f23-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">92</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">485662248.983772</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.0377460050653</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-916.53879864185</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-467.339159142505</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-449.199639499344</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">247637074.83378</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">238025174.149993</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.7364886437153</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.4280644978556</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{faffbe96-b804-ec11-8be1-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">93</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">490683976.392434</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.15138768548</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-926.015771612</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-465.006268421487</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-461.009503190513</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">246400905.720282</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">244283070.672152</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6971623461147</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.6295575968148</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{94f2be96-b804-ec11-9a9b-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">94</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">489844090.452873</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.1324217033038</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-924.430744050866</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-451.78191943447</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-472.648824616396</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">239393491.435259</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">250450599.017614</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.4723460223477</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.8256310780207</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{a6e5be96-b804-ec11-9b6f-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">95</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">496425702.634706</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.2806127077939</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-936.85152193691</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-433.778234245041</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-503.073287691869</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">229853567.700387</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">266572134.934319</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.1609223894982</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">16.327036930635</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{08d9be96-b804-ec11-8847-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">96</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">498607410.221566</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.329518808554</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-940.968827028735</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-454.077647222292</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-486.891179806444</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">240609968.383251</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">257997441.838315</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.511607537043</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">16.0622987719166</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{1accbe96-b804-ec11-93cd-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">97</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">493789700.437393</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.2213793549679</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-931.876874860268</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-453.604769319812</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-478.272105540455</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">240359396.398788</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">253430304.038605</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.5035285144637</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.9194944655477</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{3ac0be96-b804-ec11-9b10-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">98</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">498232161.15996</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.3211146934905</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-940.260659315812</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-466.026380687505</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-474.234278628307</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">246941450.231943</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">251290710.928016</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.7143708188379</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.852151618251</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{6eb4be96-b804-ec11-8ad4-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">99</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">484370811.079655</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.0084259109927</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-914.101605000309</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-473.497376064216</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-440.604228936092</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">250900235.634348</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">233470575.445307</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.8398306693711</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.2797439587615</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{16a8be96-b804-ec11-919e-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">100</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">489110254.783471</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.1158371938182</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-923.045853905006</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-441.531475612834</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-481.514378292173</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">233961911.662668</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">255148343.120803</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.2958135338617</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.9733635506365</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{5492be96-b804-ec11-9b70-e7c6697351ff}">
+				<datum status="1">
+					<value type="I4">101</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">485808538.460923</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">22.0410648213947</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">13111.6468295397</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-916.814875240189</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-466.635438292455</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-450.179436947734</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">0</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">247264182.108236</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">238544356.352687</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.7246361518553</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">15.4448812346579</value>
+				</datum>
+				<datum status="1">
+					<value type="R8">-0</value>
+				</datum>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+				<datum/>
+			</system>
+			<system id="{9074be96-b804-ec11-8dc6-e7c6697351ff}"/>
+			<system id="{b874be96-b804-ec11-9bb4-e7c6697351ff}"/>
+			<system id="{cc74be96-b804-ec11-9411-e7c6697351ff}"/>
+			<system id="{e074be96-b804-ec11-8e82-e7c6697351ff}"/>
+			<system id="{ea74be96-b804-ec11-9441-e7c6697351ff}"/>
+			<system id="{fe74be96-b804-ec11-813d-e7c6697351ff}"/>
+			<system id="{0875be96-b804-ec11-9c87-e7c6697351ff}"/>
+			<system id="{1275be96-b804-ec11-90e9-e7c6697351ff}"/>
+			<system id="{2675be96-b804-ec11-9ea1-e7c6697351ff}"/>
+			<system id="{3075be96-b804-ec11-81e1-e7c6697351ff}"/>
+			<system id="{4475be96-b804-ec11-9c67-e7c6697351ff}"/>
+			<system id="{4e75be96-b804-ec11-9e01-e7c6697351ff}"/>
+			<system id="{6275be96-b804-ec11-9e97-e7c6697351ff}"/>
+			<system id="{6c75be96-b804-ec11-8adc-e7c6697351ff}"/>
+			<system id="{7675be96-b804-ec11-8b96-e7c6697351ff}"/>
+			<system id="{8a75be96-b804-ec11-8f38-e7c6697351ff}"/>
+			<system id="{9475be96-b804-ec11-9c2a-e7c6697351ff}"/>
+			<system id="{a875be96-b804-ec11-8cb0-e7c6697351ff}"/>
+			<system id="{b275be96-b804-ec11-9bfb-e7c6697351ff}"/>
+			<system id="{bc75be96-b804-ec11-92af-e7c6697351ff}"/>
+			<system id="{d075be96-b804-ec11-9c54-e7c6697351ff}"/>
+			<system id="{da75be96-b804-ec11-8c18-e7c6697351ff}"/>
+			<system id="{ee75be96-b804-ec11-9b5c-e7c6697351ff}"/>
+			<system id="{f875be96-b804-ec11-821a-e7c6697351ff}"/>
+			<system id="{0276be96-b804-ec11-9e43-e7c6697351ff}"/>
+			<system id="{1676be96-b804-ec11-9bfa-e7c6697351ff}"/>
+			<system id="{2076be96-b804-ec11-8a3a-e7c6697351ff}"/>
+			<system id="{3476be96-b804-ec11-9b29-e7c6697351ff}"/>
+			<system id="{3e76be96-b804-ec11-91e6-e7c6697351ff}"/>
+			<system id="{4876be96-b804-ec11-853c-e7c6697351ff}"/>
+			<system id="{5c76be96-b804-ec11-9c94-e7c6697351ff}"/>
+			<system id="{6676be96-b804-ec11-95d8-e7c6697351ff}"/>
+			<system id="{7076be96-b804-ec11-9e61-e7c6697351ff}"/>
+			<system id="{8476be96-b804-ec11-89f9-e7c6697351ff}"/>
+			<system id="{8e76be96-b804-ec11-9cbb-e7c6697351ff}"/>
+			<system id="{a276be96-b804-ec11-8899-e7c6697351ff}"/>
+			<system id="{ac76be96-b804-ec11-8f95-e7c6697351ff}"/>
+			<system id="{b676be96-b804-ec11-91eb-e7c6697351ff}"/>
+			<system id="{ca76be96-b804-ec11-91b3-e7c6697351ff}"/>
+			<system id="{d476be96-b804-ec11-85ef-e7c6697351ff}"/>
+		</systems>
+	</data>
+	<sheets activeSheet="0">
+		<cellStyles/>
+		<sheet title="Sheet 1" id="{f861be96-b804-ec11-8517-e7c6697351ff}">
+			<rows defaultHeight="30" headerWidth="20">
+				<row sysId="{2c29c896-b804-ec11-8256-e7c6697351ff}"/>
+				<row sysId="{6a04c896-b804-ec11-8c79-e7c6697351ff}"/>
+				<row sysId="{d6dec796-b804-ec11-8dd2-e7c6697351ff}"/>
+				<row sysId="{14bac796-b804-ec11-8cd7-e7c6697351ff}"/>
+				<row sysId="{0c95c796-b804-ec11-8e03-e7c6697351ff}"/>
+				<row sysId="{4a70c796-b804-ec11-89c3-e7c6697351ff}"/>
+				<row sysId="{144cc796-b804-ec11-8b08-e7c6697351ff}"/>
+				<row sysId="{8427c796-b804-ec11-92c2-e7c6697351ff}"/>
+				<row sysId="{8e04c796-b804-ec11-94a8-e7c6697351ff}"/>
+				<row sysId="{dae0c696-b804-ec11-8c7a-e7c6697351ff}"/>
+				<row sysId="{84bec696-b804-ec11-8d16-e7c6697351ff}"/>
+				<row sysId="{769ac696-b804-ec11-8c49-e7c6697351ff}"/>
+				<row sysId="{9e77c696-b804-ec11-95aa-e7c6697351ff}"/>
+				<row sysId="{c055c696-b804-ec11-96c1-e7c6697351ff}"/>
+				<row sysId="{2433c696-b804-ec11-9709-e7c6697351ff}"/>
+				<row sysId="{3612c696-b804-ec11-850a-e7c6697351ff}"/>
+				<row sysId="{08f0c596-b804-ec11-8539-e7c6697351ff}"/>
+				<row sysId="{f2cec596-b804-ec11-8d96-e7c6697351ff}"/>
+				<row sysId="{7caec596-b804-ec11-8483-e7c6697351ff}"/>
+				<row sysId="{5c8dc596-b804-ec11-95c1-e7c6697351ff}"/>
+				<row sysId="{9a6dc596-b804-ec11-89d4-e7c6697351ff}"/>
+				<row sysId="{e84cc596-b804-ec11-8d8d-e7c6697351ff}"/>
+				<row sysId="{c22cc596-b804-ec11-986d-e7c6697351ff}"/>
+				<row sysId="{780dc596-b804-ec11-93ac-e7c6697351ff}"/>
+				<row sysId="{deedc496-b804-ec11-9faf-e7c6697351ff}"/>
+				<row sysId="{16cfc496-b804-ec11-9469-e7c6697351ff}"/>
+				<row sysId="{02b1c496-b804-ec11-8f62-e7c6697351ff}"/>
+				<row sysId="{5293c496-b804-ec11-9a61-e7c6697351ff}"/>
+				<row sysId="{1076c496-b804-ec11-82fc-e7c6697351ff}"/>
+				<row sysId="{b058c496-b804-ec11-9cc0-e7c6697351ff}"/>
+				<row sysId="{743ac496-b804-ec11-8c0c-e7c6697351ff}"/>
+				<row sysId="{421cc496-b804-ec11-97e4-e7c6697351ff}"/>
+				<row sysId="{66fdc396-b804-ec11-8695-e7c6697351ff}"/>
+				<row sysId="{7adfc396-b804-ec11-9351-e7c6697351ff}"/>
+				<row sysId="{24c2c396-b804-ec11-894e-e7c6697351ff}"/>
+				<row sysId="{36a6c396-b804-ec11-84de-e7c6697351ff}"/>
+				<row sysId="{4489c396-b804-ec11-9f62-e7c6697351ff}"/>
+				<row sysId="{1a6dc396-b804-ec11-8570-e7c6697351ff}"/>
+				<row sysId="{d651c396-b804-ec11-99a8-e7c6697351ff}"/>
+				<row sysId="{ac35c396-b804-ec11-8682-e7c6697351ff}"/>
+				<row sysId="{a41ac396-b804-ec11-9835-e7c6697351ff}"/>
+				<row sysId="{4600c396-b804-ec11-9085-e7c6697351ff}"/>
+				<row sysId="{0ce5c296-b804-ec11-80aa-e7c6697351ff}"/>
+				<row sysId="{b8cac296-b804-ec11-89e2-e7c6697351ff}"/>
+				<row sysId="{2cb1c296-b804-ec11-85cf-e7c6697351ff}"/>
+				<row sysId="{e296c296-b804-ec11-9bbc-e7c6697351ff}"/>
+				<row sysId="{1a7dc296-b804-ec11-9257-e7c6697351ff}"/>
+				<row sysId="{5664c296-b804-ec11-9b31-e7c6697351ff}"/>
+				<row sysId="{244bc296-b804-ec11-8453-e7c6697351ff}"/>
+				<row sysId="{0632c296-b804-ec11-9125-e7c6697351ff}"/>
+				<row sysId="{9219c296-b804-ec11-8a7e-e7c6697351ff}"/>
+				<row sysId="{dc01c296-b804-ec11-901a-e7c6697351ff}"/>
+				<row sysId="{4ae9c196-b804-ec11-8969-e7c6697351ff}"/>
+				<row sysId="{4ed1c196-b804-ec11-9c44-e7c6697351ff}"/>
+				<row sysId="{92bac196-b804-ec11-9401-e7c6697351ff}"/>
+				<row sysId="{e6a2c196-b804-ec11-90a8-e7c6697351ff}"/>
+				<row sysId="{3a8bc196-b804-ec11-975e-e7c6697351ff}"/>
+				<row sysId="{ec74c196-b804-ec11-94d3-e7c6697351ff}"/>
+				<row sysId="{9e5ec196-b804-ec11-9950-e7c6697351ff}"/>
+				<row sysId="{1448c196-b804-ec11-9967-e7c6697351ff}"/>
+				<row sysId="{6c31c196-b804-ec11-9e05-e7c6697351ff}"/>
+				<row sysId="{721cc196-b804-ec11-80ba-e7c6697351ff}"/>
+				<row sysId="{e206c196-b804-ec11-94ec-e7c6697351ff}"/>
+				<row sysId="{7af1c096-b804-ec11-9bb2-e7c6697351ff}"/>
+				<row sysId="{30dcc096-b804-ec11-8023-e7c6697351ff}"/>
+				<row sysId="{e0c7c096-b804-ec11-8ac4-e7c6697351ff}"/>
+				<row sysId="{b8b3c096-b804-ec11-9e32-e7c6697351ff}"/>
+				<row sysId="{189fc096-b804-ec11-8dd4-e7c6697351ff}"/>
+				<row sysId="{188bc096-b804-ec11-8384-e7c6697351ff}"/>
+				<row sysId="{b877c096-b804-ec11-8433-e7c6697351ff}"/>
+				<row sysId="{a864c096-b804-ec11-8942-e7c6697351ff}"/>
+				<row sysId="{0251c096-b804-ec11-8cd7-e7c6697351ff}"/>
+				<row sysId="{d43dc096-b804-ec11-8c5b-e7c6697351ff}"/>
+				<row sysId="{8c2bc096-b804-ec11-8e18-e7c6697351ff}"/>
+				<row sysId="{9e19c096-b804-ec11-9a0a-e7c6697351ff}"/>
+				<row sysId="{6007c096-b804-ec11-8a29-e7c6697351ff}"/>
+				<row sysId="{18f5bf96-b804-ec11-8870-e7c6697351ff}"/>
+				<row sysId="{8ee3bf96-b804-ec11-9d82-e7c6697351ff}"/>
+				<row sysId="{90d2bf96-b804-ec11-8f32-e7c6697351ff}"/>
+				<row sysId="{14c2bf96-b804-ec11-82f0-e7c6697351ff}"/>
+				<row sysId="{84b1bf96-b804-ec11-9694-e7c6697351ff}"/>
+				<row sysId="{8aa1bf96-b804-ec11-9b04-e7c6697351ff}"/>
+				<row sysId="{cc91bf96-b804-ec11-9e70-e7c6697351ff}"/>
+				<row sysId="{a081bf96-b804-ec11-8a1a-e7c6697351ff}"/>
+				<row sysId="{6e72bf96-b804-ec11-8c86-e7c6697351ff}"/>
+				<row sysId="{ce62bf96-b804-ec11-9acb-e7c6697351ff}"/>
+				<row sysId="{f653bf96-b804-ec11-9c5f-e7c6697351ff}"/>
+				<row sysId="{7845bf96-b804-ec11-994d-e7c6697351ff}"/>
+				<row sysId="{a036bf96-b804-ec11-9832-e7c6697351ff}"/>
+				<row sysId="{b828bf96-b804-ec11-95ca-e7c6697351ff}"/>
+				<row sysId="{9e1abf96-b804-ec11-98a4-e7c6697351ff}"/>
+				<row sysId="{420dbf96-b804-ec11-9f23-e7c6697351ff}"/>
+				<row sysId="{faffbe96-b804-ec11-8be1-e7c6697351ff}"/>
+				<row sysId="{94f2be96-b804-ec11-9a9b-e7c6697351ff}"/>
+				<row sysId="{a6e5be96-b804-ec11-9b6f-e7c6697351ff}"/>
+				<row sysId="{08d9be96-b804-ec11-8847-e7c6697351ff}"/>
+				<row sysId="{1accbe96-b804-ec11-93cd-e7c6697351ff}"/>
+				<row sysId="{3ac0be96-b804-ec11-9b10-e7c6697351ff}"/>
+				<row sysId="{6eb4be96-b804-ec11-8ad4-e7c6697351ff}"/>
+				<row sysId="{16a8be96-b804-ec11-919e-e7c6697351ff}"/>
+				<row sysId="{5492be96-b804-ec11-9b70-e7c6697351ff}"/>
+				<row sysId="{9074be96-b804-ec11-8dc6-e7c6697351ff}"/>
+				<row sysId="{b874be96-b804-ec11-9bb4-e7c6697351ff}"/>
+				<row sysId="{cc74be96-b804-ec11-9411-e7c6697351ff}"/>
+				<row sysId="{e074be96-b804-ec11-8e82-e7c6697351ff}"/>
+				<row sysId="{ea74be96-b804-ec11-9441-e7c6697351ff}"/>
+				<row sysId="{fe74be96-b804-ec11-813d-e7c6697351ff}"/>
+				<row sysId="{0875be96-b804-ec11-9c87-e7c6697351ff}"/>
+				<row sysId="{1275be96-b804-ec11-90e9-e7c6697351ff}"/>
+				<row sysId="{2675be96-b804-ec11-9ea1-e7c6697351ff}"/>
+				<row sysId="{3075be96-b804-ec11-81e1-e7c6697351ff}"/>
+				<row sysId="{4475be96-b804-ec11-9c67-e7c6697351ff}"/>
+				<row sysId="{4e75be96-b804-ec11-9e01-e7c6697351ff}"/>
+				<row sysId="{6275be96-b804-ec11-9e97-e7c6697351ff}"/>
+				<row sysId="{6c75be96-b804-ec11-8adc-e7c6697351ff}"/>
+				<row sysId="{7675be96-b804-ec11-8b96-e7c6697351ff}"/>
+				<row sysId="{8a75be96-b804-ec11-8f38-e7c6697351ff}"/>
+				<row sysId="{9475be96-b804-ec11-9c2a-e7c6697351ff}"/>
+				<row sysId="{a875be96-b804-ec11-8cb0-e7c6697351ff}"/>
+				<row sysId="{b275be96-b804-ec11-9bfb-e7c6697351ff}"/>
+				<row sysId="{bc75be96-b804-ec11-92af-e7c6697351ff}"/>
+				<row sysId="{d075be96-b804-ec11-9c54-e7c6697351ff}"/>
+				<row sysId="{da75be96-b804-ec11-8c18-e7c6697351ff}"/>
+				<row sysId="{ee75be96-b804-ec11-9b5c-e7c6697351ff}"/>
+				<row sysId="{f875be96-b804-ec11-821a-e7c6697351ff}"/>
+				<row sysId="{0276be96-b804-ec11-9e43-e7c6697351ff}"/>
+				<row sysId="{1676be96-b804-ec11-9bfa-e7c6697351ff}"/>
+				<row sysId="{2076be96-b804-ec11-8a3a-e7c6697351ff}"/>
+				<row sysId="{3476be96-b804-ec11-9b29-e7c6697351ff}"/>
+				<row sysId="{3e76be96-b804-ec11-91e6-e7c6697351ff}"/>
+				<row sysId="{4876be96-b804-ec11-853c-e7c6697351ff}"/>
+				<row sysId="{5c76be96-b804-ec11-9c94-e7c6697351ff}"/>
+				<row sysId="{6676be96-b804-ec11-95d8-e7c6697351ff}"/>
+				<row sysId="{7076be96-b804-ec11-9e61-e7c6697351ff}"/>
+				<row sysId="{8476be96-b804-ec11-89f9-e7c6697351ff}"/>
+				<row sysId="{8e76be96-b804-ec11-9cbb-e7c6697351ff}"/>
+				<row sysId="{a276be96-b804-ec11-8899-e7c6697351ff}"/>
+				<row sysId="{ac76be96-b804-ec11-8f95-e7c6697351ff}"/>
+				<row sysId="{b676be96-b804-ec11-91eb-e7c6697351ff}"/>
+				<row sysId="{ca76be96-b804-ec11-91b3-e7c6697351ff}"/>
+				<row sysId="{d476be96-b804-ec11-85ef-e7c6697351ff}"/>
+			</rows>
+			<columns defaultWidth="85" headerHeight="45">
+				<column fieldId="Frame" shrinkToFit="-1"/>
+				<column fieldId="Cohesive Energy Density" shrinkToFit="-1"/>
+				<column fieldId="Solubility parameter" shrinkToFit="-1"/>
+				<column fieldId="Cell volume" shrinkToFit="-1"/>
+				<column fieldId="Inter Potential energy" shrinkToFit="-1"/>
+				<column fieldId="Inter van der Waals energy" shrinkToFit="-1"/>
+				<column fieldId="Inter Electrostatic  energy" shrinkToFit="-1"/>
+				<column fieldId="Inter other  energy" shrinkToFit="-1"/>
+				<column fieldId="van der Waals Cohesive Energy Density" shrinkToFit="-1"/>
+				<column fieldId="Electrostatic Cohesive Energy Density" shrinkToFit="-1"/>
+				<column fieldId="van der Waals solubility" shrinkToFit="-1"/>
+				<column fieldId="Electrostatic solubility" shrinkToFit="-1"/>
+				<column fieldId="Other solubility" shrinkToFit="-1"/>
+				<column fieldId="{3c8cbe96-b804-ec11-9963-e7c6697351ff}"/>
+				<column fieldId="{ce8bbe96-b804-ec11-9e4b-e7c6697351ff}"/>
+				<column fieldId="{6a8bbe96-b804-ec11-9ac5-e7c6697351ff}"/>
+				<column fieldId="{068bbe96-b804-ec11-9473-e7c6697351ff}"/>
+				<column fieldId="{a28abe96-b804-ec11-84c5-e7c6697351ff}"/>
+				<column fieldId="{3e8abe96-b804-ec11-9c7b-e7c6697351ff}"/>
+				<column fieldId="{da89be96-b804-ec11-9ea8-e7c6697351ff}"/>
+				<column fieldId="{8089be96-b804-ec11-9f23-e7c6697351ff}"/>
+				<column fieldId="{3089be96-b804-ec11-84bd-e7c6697351ff}"/>
+				<column fieldId="{d688be96-b804-ec11-8847-e7c6697351ff}"/>
+				<column fieldId="{7288be96-b804-ec11-8bd0-e7c6697351ff}"/>
+				<column fieldId="{d287be96-b804-ec11-8a0b-e7c6697351ff}"/>
+				<column fieldId="{6e87be96-b804-ec11-9ae5-e7c6697351ff}"/>
+				<column fieldId="{6a86be96-b804-ec11-89a1-e7c6697351ff}"/>
+				<column fieldId="{e47fbe96-b804-ec11-9700-e7c6697351ff}"/>
+			</columns>
+			<cells>
+				<styles>
+					<styleRef count="3948">0</styleRef>
+				</styles>
+				<colors>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+					<block>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</block>
+				</colors>
+			</cells>
+		</sheet>
+	</sheets>
+</studyTableDocument>

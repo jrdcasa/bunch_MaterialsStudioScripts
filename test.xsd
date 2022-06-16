@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="latin1"?>
+<!DOCTYPE XSD []>
+<XSD Version="19.1" WrittenBy="Materials Studio 19.1">
+	<AtomisticTreeRoot ID="1" NumProperties="63" NumChildren="74">
+		<Property Name="AngleAxisType" DefinedOn="AngleBetweenPlanesBender" Type="Enumerated"/>
+		<Property Name="AngleEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="BeadDocumentID" DefinedOn="MesoMoleculeSet" Type="String"/>
+		<Property Name="BendBendEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="BendTorsionBendEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="BondEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="EFGAsymmetry" DefinedOn="Atom" Type="Double"/>
+		<Property Name="EFGQuadrupolarCoupling" DefinedOn="Atom" Type="Double"/>
+		<Property Name="ElectrostaticEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="EquivalentAtomMatch" DefinedOn="Atom3d" Type="String"/>
+		<Property Name="FaceMillerIndex" DefinedOn="GrowthFace" Type="MillerIndex"/>
+		<Property Name="FacetTransparency" DefinedOn="GrowthFace" Type="Float"/>
+		<Property Name="FermiLevel" DefinedOn="ScalarFieldBase" Type="Double"/>
+		<Property Name="Force" DefinedOn="Matter" Type="CoDirection"/>
+		<Property Name="FrameFilter" DefinedOn="Trajectory" Type="String"/>
+		<Property Name="HarmonicForceConstant" DefinedOn="HarmonicRestraint" Type="Double"/>
+		<Property Name="HarmonicMinimum" DefinedOn="HarmonicRestraint" Type="Double"/>
+		<Property Name="HydrogenBondEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="ImportOrder" DefinedOn="Bondable" Type="UnsignedInteger"/>
+		<Property Name="InversionEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="IsBackboneAtom" DefinedOn="Atom" Type="Boolean"/>
+		<Property Name="IsChiralCenter" DefinedOn="Atom" Type="Boolean"/>
+		<Property Name="IsOutOfPlane" DefinedOn="Atom" Type="Boolean"/>
+		<Property Name="IsRepeatArrowVisible" DefinedOn="ElectrodeWire" Type="Boolean"/>
+		<Property Name="KineticEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="LineExtentPadding" DefinedOn="BestFitLineMonitor" Type="Double"/>
+		<Property Name="LinkageGroupName" DefinedOn="Linkage" Type="String"/>
+		<Property Name="ListIdentifier" DefinedOn="PropertyList" Type="String"/>
+		<Property Name="NMRShielding" DefinedOn="Atom" Type="Double"/>
+		<Property Name="NonBondEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="NormalMode" DefinedOn="Bondable" Type="Direction"/>
+		<Property Name="NormalModeFrequency" DefinedOn="Bondable" Type="Double"/>
+		<Property Name="NumScanSteps" DefinedOn="LinearScan" Type="UnsignedInteger"/>
+		<Property Name="OrbitalCutoffRadius" DefinedOn="Bondable" Type="Double"/>
+		<Property Name="PlaneExtentPadding" DefinedOn="BestFitPlaneMonitor" Type="Double"/>
+		<Property Name="PotentialEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="QuantizationValue" DefinedOn="ScalarFieldBase" Type="Double"/>
+		<Property Name="RelativeVelocity" DefinedOn="Matter" Type="Direction"/>
+		<Property Name="RepeatArrowScale" DefinedOn="ElectrodeWire" Type="Float"/>
+		<Property Name="RestraintEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="ScanEnd" DefinedOn="LinearScan" Type="Double"/>
+		<Property Name="ScanStart" DefinedOn="LinearScan" Type="Double"/>
+		<Property Name="SeparatedStretchStretchEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="ServerDipoleMoment" DefinedOn="MatterGroupProperties" Type="Direction"/>
+		<Property Name="SimulationStep" DefinedOn="Trajectory" Type="Integer"/>
+		<Property Name="SpinQuantizationDirection" DefinedOn="Atom" Type="Direction"/>
+		<Property Name="Stiffness" DefinedOn="SymmetryMatterHessian" Type="Matrix6x6"/>
+		<Property Name="StretchBendStretchEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="StretchStretchEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="StretchTorsionStretchEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="Temperature" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="ThreeBodyNonBondEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="TorsionBendBendEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="TorsionEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="TorsionStretchEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="TotalEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="Units" DefinedOn="ScalarFieldBase" Type="String"/>
+		<Property Name="ValenceCrossTermEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="ValenceDiagonalEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="VanDerWaalsEnergy" DefinedOn="ClassicalEnergyHolder" Type="Double"/>
+		<Property Name="_ServerAtomNames" DefinedOn="IndexProvider" Type="String"/>
+		<Property Name="_Stress" DefinedOn="MatterSymmetrySystem" Type="Matrix"/>
+		<Property Name="_TrajectoryStress" DefinedOn="MatterSymmetrySystem" Type="Matrix"/>
+		<Atom3d ID="2" HasProperties="1" NumChildren="1" DisplayStyle="Line" XYZ="-2.36436158,0.838672681,1.016438766" Connections="3" Components="H" ColorMode="0">
+			<Properties Force="0.117396283338356,-0.0166014946135048,-0.0177873156573266"/>
+			<AnnotationProperty ID="4" DisplayStyle="Annotation" Color="255,255,255,255" Values="" CustomText="" Movable="1"/>
+		</Atom3d>
+		<Atom3d ID="5" HasProperties="1" NumChildren="1" DisplayStyle="Line" XYZ="-2.13470994,-0.233937713,0.981916885" Connections="6,7,3,8" Components="C" ColorMode="0">
+			<Properties Force="0.0758925468045935,0.0142298525258613,0.00830074730675241"/>
+			<AnnotationProperty ID="9" DisplayStyle="Annotation" Color="255,255,255,255" Values="" CustomText="" Movable="1"/>
+		</Atom3d>
+		<Atom3d ID="10" HasProperties="1" NumChildren="1" DisplayStyle="Line" XYZ="-2.517068401,-0.718825694,1.88932381" Connections="6" Components="H" ColorMode="0">
+			<Properties Force="-0.0142298525258613,0.015415673569683,-0.00118582104382177"/>
+			<AnnotationProperty ID="11" DisplayStyle="Annotation" Color="255,255,255,255" Values="" CustomText="" Movable="1"/>
+		</Atom3d>
+		<Bond ID="6" Connects="5,10" ColorMode="0"/>
+		<Atom3d ID="12" HasProperties="1" NumChildren="1" DisplayStyle="Line" XYZ="-2.609927653,-0.68065746,0.099238881" Connections="7" Components="H" ColorMode="0">
+			<Properties Force="0.0533619469719798,-0.0320171681831879,-0.0225305998326137"/>
+			<AnnotationProperty ID="13" DisplayStyle="Annotation" Color="255,255,255,255" Values="" CustomText="" Movable="1"/>
+		</Atom3d>
+		<Bond ID="7" Connects="5,12" ColorMode="0"/>
+		<Bond ID="3" Connects="5,2" ColorMode="0"/>
+		<Atom3d ID="14" HasProperties="1" NumChildren="1" DisplayStyle="Line" XYZ="-1.048043692,-0.375079301,0.922391767" Connections="8" Components="H" ColorMode="0">
+			<Properties Force="0.432824680994947,-0.00355746313146532,0.144670167346256"/>
+			<AnnotationProperty ID="15" DisplayStyle="Annotation" Color="255,255,255,255" Values="" CustomText="" Movable="1"/>
+		</Atom3d>
+		<Bond ID="8" Connects="5,14" ColorMode="0"/>
+		<Atom3d ID="16" HasProperties="1" NumChildren="1" DisplayStyle="Line" XYZ="1.690584552,0.147489599,1.678794293" Connections="17" Components="H" ColorMode="0">
+			<Properties Force="-0.0853791151551676,-0.0996089676810289,0.324914966007166"/>
+			<AnnotationProperty ID="18" DisplayStyle="Annotation" Color="255,255,255,255" Values="" CustomText="" Movable="1"/>
+		</Atom3d>
+		<Atom3d ID="19" HasProperties="1" NumChildren="1" DisplayStyle="Line" XYZ="2.334563666,-0.732893859,1.682019993" Connections="20,21,17" Components="C" ColorMode="0">
+			<Properties Force="-0.436382144126412,-0.0877507572428112,-1.68979498744603"/>
+			<AnnotationProperty ID="22" DisplayStyle="Annotation" Color="255,255,255,255" Values="" CustomText="" Movable="1"/>
+		</Atom3d>
+		<DistanceStretcher ID="23" NumChildren="1" DisplayStyle="None" NumTriggerSets="2">
+			<SymmetryTransformer ID="24" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="25" Objects="19,26,27,16,28,29" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="30" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="31" Objects="24" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="32" NumChildren="1" DisplayStyle="None" NumTriggerSets="2">
+			<SymmetryTransformer ID="33" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="34" Objects="19,26,27,16,28,29" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="35" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="36" Objects="33" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="37" NumChildren="1" DisplayStyle="None" NumTriggerSets="2">
+			<SymmetryTransformer ID="38" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="39" Objects="19,26,27,16,28,29" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="40" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="41" Objects="38" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="42" NumChildren="1" DisplayStyle="None" NumTriggerSets="2">
+			<SymmetryTransformer ID="43" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="44" Objects="19,26,27,16,28,29" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="45" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="46" Objects="43" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="47" NumChildren="1" DisplayStyle="None" NumTriggerSets="2">
+			<SymmetryTransformer ID="48" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="49" Objects="19,26,27,16,28,29" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="50" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="51" Objects="48" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="52" NumChildren="1" DisplayStyle="None" NumTriggerSets="2">
+			<SymmetryTransformer ID="53" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="54" Objects="19,26,27,16,28,29" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="55" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="56" Objects="53" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="57" NumChildren="1" DisplayStyle="None" NumTriggerSets="2">
+			<SymmetryTransformer ID="58" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="59" Objects="19,26,27,16,28,29" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="60" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="61" Objects="58" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="62" NumChildren="1" DisplayStyle="None" NumTriggerSets="2">
+			<SymmetryTransformer ID="63" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="64" Objects="19,26,27,16,28,29" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="65" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="66" Objects="63" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="67" NumChildren="1" DisplayStyle="None" NumTriggerSets="2">
+			<SymmetryTransformer ID="68" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="69" Objects="19,26,27,16,28,29" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="70" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="71" Objects="68" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="72" NumChildren="1" DisplayStyle="None" NumTriggerSets="2">
+			<SymmetryTransformer ID="73" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="74" Objects="19,26,27,16,28,29" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="75" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="76" Objects="73" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="77" NumChildren="1" DisplayStyle="None" NumTriggerSets="2">
+			<SymmetryTransformer ID="78" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="79" Objects="19,26,27,16,28,29" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="80" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="81" Objects="78" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="82" NumChildren="1" DisplayStyle="None" NumTriggerSets="2">
+			<SymmetryTransformer ID="83" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="84" Objects="19,26,27,16,28,29" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="85" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="86" Objects="83" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<Atom3d ID="26" HasProperties="1" NumChildren="1" DisplayStyle="Line" XYZ="3.664441074,-0.630521998,1.657181205" Connections="20,87,88" Components="C" ColorMode="0">
+			<Properties Force="-0.0284597050517226,0.124511209601286,0.673546352890767"/>
+			<AnnotationProperty ID="89" DisplayStyle="Annotation" Color="255,255,255,255" Values="" CustomText="" Movable="1"/>
+		</Atom3d>
+		<Bond ID="20" Connects="19,26" Type="Double" ColorMode="0"/>
+		<Atom3d ID="27" HasProperties="1" NumChildren="1" DisplayStyle="Line" XYZ="1.837602722,-1.702908704,1.710087464" Connections="21" Components="H" ColorMode="0">
+			<Properties Force="0.0498044838405145,-0.0462470207090491,0.585795595647956"/>
+			<AnnotationProperty ID="90" DisplayStyle="Annotation" Color="255,255,255,255" Values="" CustomText="" Movable="1"/>
+		</Atom3d>
+		<Bond ID="21" Connects="19,27" ColorMode="0"/>
+		<Bond ID="17" Connects="19,16" ColorMode="0"/>
+		<Atom3d ID="28" HasProperties="1" NumChildren="1" DisplayStyle="Line" XYZ="4.37255969417135,0.746100684661245,1.62065492261921" Connections="87" Components="H" ColorMode="0">
+			<Properties Force="-0.211076145800276,0.0664059784540193,0.110281357075425"/>
+			<AnnotationProperty ID="91" DisplayStyle="Annotation" Color="255,255,255,255" Values="" CustomText="" Movable="1"/>
+		</Atom3d>
+		<Bond ID="87" Connects="26,28" ColorMode="0"/>
+		<Atom3d ID="29" HasProperties="1" NumChildren="1" DisplayStyle="Line" XYZ="4.306663253,-1.512052876,1.663807587" Connections="88" Components="H" ColorMode="0">
+			<Properties Force="0.0462470207090491,0.0652201574101975,-0.116210462294534"/>
+			<AnnotationProperty ID="92" DisplayStyle="Annotation" Color="255,255,255,255" Values="" CustomText="" Movable="1"/>
+		</Atom3d>
+		<Bond ID="88" Connects="26,29" ColorMode="0"/>
+		<DistanceStretcher ID="93" NumChildren="1" DisplayStyle="None" NumTriggerSets="2">
+			<SymmetryTransformer ID="94" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="95" Objects="19,26,27,16,28,29" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="96" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="97" Objects="94" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="98" NumChildren="1" DisplayStyle="None" NumTriggerSets="2">
+			<SymmetryTransformer ID="99" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="100" Objects="19,26,27,16,28,29" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="101" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="102" Objects="99" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="103" NumChildren="1" NumTriggerSets="2">
+			<SymmetryTransformer ID="104" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="105" Objects="19,16,29,28,27,26" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="106" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="107" Objects="104" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<Set ID="108" NumChildren="1" Name="Methane" DisplayStyle="Cages" Objects="ci(16):2,2+4,3+9,6,2+12,7,3,2+14,8,2+103">
+			<AnnotationProperty ID="109" Values="Name" CustomText="" Movable="1"/>
+		</Set>
+		<Set ID="110" NumChildren="1" Name="Ethane" DisplayStyle="Cages" Objects="ci(19):16,2+18,22,26,89,20,27,90,21,17,28,91,87,29,92,88,2+103">
+			<AnnotationProperty ID="111" Values="Name" CustomText="" Movable="1"/>
+		</Set>
+		<DistanceStretcher ID="112" NumChildren="1" NumTriggerSets="2">
+			<SymmetryTransformer ID="113" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="114" Objects="19,16,29,28,27,26" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="115" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="116" Objects="113" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="117" NumChildren="1" NumTriggerSets="2">
+			<SymmetryTransformer ID="118" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="119" Objects="19,16,29,28,27,26" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="120" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="121" Objects="118" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="122" NumChildren="1" NumTriggerSets="2">
+			<SymmetryTransformer ID="123" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="124" Objects="26,27,16,29,28,19" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="125" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="126" Objects="123" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="127" NumChildren="1" NumTriggerSets="2">
+			<SymmetryTransformer ID="128" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="129" Objects="27,26,19,16,29,28" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="130" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="131" Objects="128" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="132" NumChildren="1" NumTriggerSets="2">
+			<SymmetryTransformer ID="133" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="134" Objects="19,27,16,29,28,26" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="135" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="136" Objects="133" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="137" NumChildren="1" NumTriggerSets="2">
+			<SymmetryTransformer ID="138" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="139" Objects="19,27,16,29,28,26" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="140" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="141" Objects="138" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="142" NumChildren="1" NumTriggerSets="2">
+			<SymmetryTransformer ID="143" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="144" Objects="19,27,16,29,28,26" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="145" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="146" Objects="143" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="147" NumChildren="1" NumTriggerSets="2">
+			<SymmetryTransformer ID="148" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="149" Objects="19,27,16,29,28,26" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="150" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="151" Objects="148" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="152" NumChildren="1" NumTriggerSets="2">
+			<SymmetryTransformer ID="153" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="154" Objects="26,16,29,28,19,27" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="155" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="156" Objects="153" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="157" NumChildren="1" NumTriggerSets="2">
+			<SymmetryTransformer ID="158" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="159" Objects="26,16,29,28,19,27" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="160" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="161" Objects="158" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="162" NumChildren="1" NumTriggerSets="2">
+			<SymmetryTransformer ID="163" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="164" Objects="26,16,29,28,19,27" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="165" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="166" Objects="163" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="167" NumChildren="1" NumTriggerSets="2">
+			<SymmetryTransformer ID="168" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="169" Objects="26,16,29,28,19,27" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="170" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="171" Objects="168" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="172" NumChildren="1" NumTriggerSets="2">
+			<SymmetryTransformer ID="173" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="174" Objects="26,16,29,28,19,27" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="175" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="176" Objects="173" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="177" NumChildren="1" NumTriggerSets="2">
+			<SymmetryTransformer ID="178" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="179" Objects="26,16,29,28,19,27" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="180" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="181" Objects="178" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="182" NumChildren="1" NumTriggerSets="2">
+			<SymmetryTransformer ID="183" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="184" Objects="26,16,29,28,19,27" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="185" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="186" Objects="183" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="187" NumChildren="1" NumTriggerSets="2">
+			<SymmetryTransformer ID="188" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="189" Objects="26,16,29,28,19,27" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="190" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="191" Objects="188" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="192" NumChildren="1" NumTriggerSets="2">
+			<SymmetryTransformer ID="193" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="194" Objects="26,16,29,28,19,27" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="195" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="196" Objects="193" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="197" NumChildren="1" NumTriggerSets="2">
+			<SymmetryTransformer ID="198" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="199" Objects="26,16,29,28,19,27" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="200" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="201" Objects="198" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="202" NumChildren="1" NumTriggerSets="2">
+			<SymmetryTransformer ID="203" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="204" Objects="26,16,29,28,19,27" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="205" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="206" Objects="203" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="207" NumChildren="1" NumTriggerSets="2">
+			<SymmetryTransformer ID="208" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="209" Objects="26,16,29,28,19,27" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="210" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="211" Objects="208" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="212" NumChildren="1" NumTriggerSets="2">
+			<SymmetryTransformer ID="213" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="214" Objects="26,16,29,28,19,27" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="215" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="216" Objects="213" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="217" NumChildren="1" NumTriggerSets="2">
+			<SymmetryTransformer ID="218" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="219" Objects="16,26,27,19,28,29" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="220" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="221" Objects="218" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="222" NumChildren="1" NumTriggerSets="2">
+			<SymmetryTransformer ID="223" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="224" Objects="16,27,26,19,28,29" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="225" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="226" Objects="223" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="227" NumChildren="1" NumTriggerSets="2">
+			<SymmetryTransformer ID="228" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="229" Objects="2,5,14,10,12" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="230" Objects="28,2" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="231" Objects="228" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<CompleteRestriction ID="232"/>
+		<DistanceStretcher ID="233" NumChildren="1" NumTriggerSets="2">
+			<SymmetryTransformer ID="234" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="235" Objects="16,19,26,27,28,29" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="236" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="237" Objects="234" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="238" NumChildren="1" NumTriggerSets="2">
+			<SymmetryTransformer ID="239" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="240" Objects="16,19,26,27,28,29" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="241" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="242" Objects="239" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="243" NumChildren="1" NumTriggerSets="2">
+			<SymmetryTransformer ID="244" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="245" Objects="16,19,26,27,28,29" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="246" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="247" Objects="244" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="248" NumChildren="1" NumTriggerSets="2">
+			<SymmetryTransformer ID="249" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="250" Objects="16,19,26,27,28,29" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="251" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="252" Objects="249" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="253" NumChildren="1" NumTriggerSets="2">
+			<SymmetryTransformer ID="254" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="255" Objects="16,19,26,27,28,29" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="256" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="257" Objects="254" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="258" NumChildren="1" NumTriggerSets="2">
+			<SymmetryTransformer ID="259" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="260" Objects="16,19,26,27,28,29" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="261" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="262" Objects="259" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="263" NumChildren="1" NumTriggerSets="2">
+			<SymmetryTransformer ID="264" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="265" Objects="16,19,26,27,28,29" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="266" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="267" Objects="264" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<DistanceStretcher ID="268" NumChildren="1" NumTriggerSets="2">
+			<SymmetryTransformer ID="269" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="270" Objects="16,19,26,27,28,29" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="271" Objects="14,19" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="272" Objects="269" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+		<IndexProvider ID="273" NumTriggerSets="1">
+			<MonitorTriggerSet ID="274" Objects="ci(11):2,5,10,12,14,16,19,4+26" EventMask="13"/>
+		</IndexProvider>
+		<AtomisticClassicalEnergy ID="275" HasProperties="1" Name="DMol3 Energy">
+			<Properties TotalEnergy="-74719.2223810138"/>
+		</AtomisticClassicalEnergy>
+		<AtomicHessian ID="276" NumTriggerSets="4" NumRows="11">
+			<RestrictableMonitorTriggerSet ID="277" ShouldAllowDeletions="0" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+			<RestrictableMonitorTriggerSet ID="278" Objects="ci(11):2,5,10,12,14,16,19,4+26" EventMask="13" IsIndexed="1" MustBeInvariant="0" Properties="XYZ,XYZ,XYZ,XYZ,XYZ,XYZ,XYZ,XYZ,XYZ,XYZ,XYZ"/>
+			<RestrictableMonitorTriggerSet ID="279" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+			<MonitorTriggerSet ID="280" EventMask="13" IsIndexed="1"/>
+			<HessianRow NumCells="1">
+				<HessianCell Cell="192.7187671677,-196.7156515566,-15.24791397346,-196.7156515566,1105.456723394,26.67105771627,-15.24791397346,26.67105771627,235.9619579807"/>
+			</HessianRow>
+			<HessianRow NumCells="2">
+				<HessianCell Cell="-210.9282950255,196.5214113936,5.313380971816,197.1441684191,-1057.693018786,-29.14797743197,5.101303600263,-28.25626703985,-146.5122909245"/>
+				<HessianCell Cell="1858.259804029,-14.50425849085,-5.738594864885,-14.50425849085,1949.619050921,2.549744533296,-5.738594864885,2.549744533296,1881.127749839"/>
+			</HessianRow>
+			<HessianRow NumCells="3">
+				<HessianCell Cell="-2.147115984916,-1.430730192901,-11.52354108495,-17.53259968113,20.50398961895,-2.945389961517,-12.3928329118,-1.995147783472,18.80906936279"/>
+				<HessianCell Cell="-264.5261921383,-134.4128230383,251.0680335173,-136.2785410391,-318.1816645074,323.0252223089,252.4131251676,322.3059759517,-748.9945653982"/>
+				<HessianCell Cell="330.083608477,131.6795806426,-243.0650563041,131.6795806426,396.639567311,-306.8636823889,-243.0650563041,-306.8636823889,810.528446503"/>
+			</HessianRow>
+			<HessianRow NumCells="4">
+				<HessianCell Cell="9.769724856869,5.191732994073,15.4165524624,-33.1591566607,16.77547149481,-1.695012796857,10.25474394424,2.750436896524,16.23780376723"/>
+				<HessianCell Cell="-340.9767117038,-152.4034875657,-315.8805765924,-154.0454296554,-292.4598834626,-286.4596212407,-307.2011726841,-288.7488007814,-716.4303259523"/>
+				<HessianCell Cell="-11.32294938341,23.20354140133,-1.003320321772,19.66027338987,4.546252738099,-0.1884510804471,0.5421837230775,-1.547591958087,24.01646209534"/>
+				<HessianCell Cell="333.6560872237,169.3090349221,293.0457088437,169.3090349221,359.1315632876,274.6306947469,293.0457088437,274.6306947469,779.8967179405"/>
+			</HessianRow>
+			<HessianRow NumCells="5">
+				<HessianCell Cell="4.047337946965,2.786708580664,-3.194066833017,59.77319352197,35.61638339526,7.691422288623,3.875409126103,6.241818875537,-1.873893315603"/>
+				<HessianCell Cell="-1027.502609684,115.2559657817,43.12724485579,118.2636936445,-160.3162770858,-8.474089391786,33.27884028062,-4.353636803398,-152.8204145118"/>
+				<HessianCell Cell="10.4092943342,-0.4903864916129,-3.442918635632,-8.684755478218,17.45169025518,-12.48287578084,-12.4893106845,-6.735609081192,16.10503772943"/>
+				<HessianCell Cell="-6.189486270563,2.51211218794,-0.07530344435045,-29.0273549159,31.59054231578,13.33172183778,-32.3223710248,24.88450917387,18.12880801097"/>
+				<HessianCell Cell="1032.576192494,-107.2979859795,-62.04197200342,-107.2979859795,198.4618713785,-11.21984143347,-62.04197200342,-11.21984143347,220.5337166256"/>
+			</HessianRow>
+			<HessianRow NumCells="6">
+				<HessianCell Cell="13.96703269771,1.773375111449,2.672490673509,19.18009219589,-15.22739486235,2.46547399704,-1.555550419851,-1.919675435534,-21.59191533393"/>
+				<HessianCell Cell="0.6577683489138,-1.261067915094,4.549543977162,2.15977492273,-19.6964931724,-1.760833391649,8.588142531389,-0.7285005464297,-18.22164979112"/>
+				<HessianCell Cell="-12.61105324696,3.980343336959,0.7809248405523,-4.757915501884,-13.96650598899,-0.1766425435115,4.390061630288,-1.260154826517,-19.92148736613"/>
+				<HessianCell Cell="-5.083516679999,6.610094230136,0.08396811373509,-15.04128317009,-8.191206330809,0.1052057016645,14.44551869669,-4.943007950289,-20.93980180428"/>
+				<HessianCell Cell="-6.651776084512,-18.83218179037,5.859783216228,-8.079696154323,-41.61628479466,-10.21721986211,5.23728045938,6.188997237947,-12.61528260162"/>
+				<HessianCell Cell="575.3006540218,-437.2791944364,-6.862078411643,-437.2791944364,894.1496715265,-4.465444494159,-6.862078411643,-4.465444494159,143.0811470419"/>
+			</HessianRow>
+			<HessianRow NumCells="7">
+				<HessianCell Cell="1.488904670449,-0.868431318432,2.1011910849,7.688479275423,-17.65791220785,0.6386369410873,4.461552023923,-1.698225721286,-17.85110830128"/>
+				<HessianCell Cell="-4.755158128625,-2.475388144314,0.8104649943604,2.744382649404,-19.74846829667,-0.464260527095,0.06929930671443,-1.502587814818,-19.58938505088"/>
+				<HessianCell Cell="-10.23608961885,-1.111312871536,2.176432897996,-3.039879678033,-16.73306365697,-0.04774621853832,5.138642440897,-3.255823009326,-19.52693627225"/>
+				<HessianCell Cell="1.964829380095,-0.5346784079377,1.749773607692,-7.794573332072,-14.13139555331,-0.4264262895064,7.138672236722,-1.49145634534,-18.43515147497"/>
+				<HessianCell Cell="0.4106218004028,-4.902084710157,12.44592957223,-7.74920399436,-30.94907397442,-5.866071941886,10.21731979305,1.068047559313,-17.01747622661"/>
+				<HessianCell Cell="-619.3693359824,413.7190818618,0.9697562431431,400.4888867452,-869.9244346983,6.168238843332,8.894967246552,18.94957375003,-16.34970588502"/>
+				<HessianCell Cell="3212.898759073,19.06558088079,-65.35183440784,19.06558088079,2360.427689149,-27.95890484981,-65.35183440784,-27.95890484981,260.8997241392"/>
+			</HessianRow>
+			<HessianRow NumCells="8">
+				<HessianCell Cell="1.815424160108,-1.353898716028,1.010256401038,-11.36888566097,-22.56524221797,-0.9492540176344,0.601016874846,-0.2581375680762,-21.72336401646"/>
+				<HessianCell Cell="-1.931136271937,-1.30587345694,7.613497314777,-5.12675447513,-20.51268268709,-0.5762950031675,6.590938420691,0.790900569764,-19.03962582283"/>
+				<HessianCell Cell="-10.06781532782,0.716628508486,-0.1038824230971,0.6334755526178,-23.48410329655,-0.007046073919669,0.5689733377622,1.055878518614,-20.33282414101"/>
+				<HessianCell Cell="1.596686872243,-0.6796729225947,-1.052046147755,2.901385703727,-25.79506295415,0.2717651829552,4.98699134223,-1.077307082394,-21.64142893372"/>
+				<HessianCell Cell="-2.890594927823,-6.407491825651,10.8511286642,2.543458249965,-9.844905038418,2.992416932064,-1.333580777301,0.3782581251244,-17.85137762694"/>
+				<HessianCell Cell="-5.276713253891,-3.723514693518,-6.13351055285,88.32278544854,73.51052705351,-0.5361384684459,-7.996163255482,-6.179520357773,11.00855063339"/>
+				<HessianCell Cell="-2108.435283522,-112.1378536259,36.41189018422,-112.9940791069,-623.6120474334,1.614904608438,38.25167481303,5.699634335177,-107.2286937503"/>
+				<HessianCell Cell="3175.896236437,70.63780185578,-56.00388399157,70.63780185578,2291.779383249,-35.6530258159,-56.00388399157,-35.6530258159,137.9345465292"/>
+			</HessianRow>
+			<HessianRow NumCells="9">
+				<HessianCell Cell="-16.65898512539,-4.754195556127,-0.61299161018,18.67744078429,-15.87386438945,2.569844270912,-10.88363142208,-3.604783748721,-23.28366082327"/>
+				<HessianCell Cell="-3.012493894719,-2.158830229894,6.089626350429,-1.837017510341,-19.94166879521,-1.034803454991,9.14869262227,-0.1946908582801,-17.65296425595"/>
+				<HessianCell Cell="-7.744191397404,-4.200266240641,0.807095362837,-3.879322617093,-15.16908949976,-0.6661151226957,4.928639755719,-3.066654889488,-19.88833589766"/>
+				<HessianCell Cell="13.69220148591,-10.7658349405,-0.2117921222662,-15.6230362757,-9.216556494626,0.1665542378415,19.29862979904,-9.569353490072,-21.48084789727"/>
+				<HessianCell Cell="0.2498157645095,11.52489436691,18.32213037601,-3.736722356332,-39.61615210148,-9.348179923973,4.327409007525,14.33060361611,-9.538936928164"/>
+				<HessianCell Cell="53.05759893371,27.25182111548,-7.77761343329,-16.25961708248,17.09336294069,2.147724848778,-5.312138459789,1.534244332298,17.9440811433"/>
+				<HessianCell Cell="-477.8836064047,-294.5796591354,3.565879866324,-304.7153776603,-899.59804086,30.72299673834,12.76322141552,20.70440142315,-43.09879534444"/>
+				<HessianCell Cell="9.401001615736,-90.90914989931,1.793169908725,-2.100197770783,56.8988718087,-2.865092847635,-6.039322411944,3.438798196111,21.97874182895"/>
+				<HessianCell Cell="427.4594946469,323.9342176922,-19.27030460017,323.9342176922,938.5466232047,-17.08966958923,-19.27030460017,-17.08966958923,155.5672594779"/>
+			</HessianRow>
+			<HessianRow NumCells="10">
+				<HessianCell Cell="18.68875981755,2.984546738651,3.792852405926,-20.7853434522,-24.39244675201,-2.49476413427,11.41591431103,1.769893363183,-18.92462433188"/>
+				<HessianCell Cell="-1.672394946613,-1.843432159087,0.831739971726,-3.420051861039,-20.51020030476,-0.110791182132,-0.1704908351359,-0.1821259274241,-20.97862608799"/>
+				<HessianCell Cell="-13.2720221723,3.964996366157,1.816034824678,1.838143583724,-25.53051680059,0.4044803839078,-0.3128542763833,1.781825185151,-20.4288223507"/>
+				<HessianCell Cell="-8.423045429046,9.318731913927,1.670557045966,9.120263580518,-30.34183807425,-0.04870786407294,-4.132237336694,4.695949752321,-19.77822681484"/>
+				<HessianCell Cell="-4.705038578485,-22.46909753977,4.87921232686,1.470450819392,-1.55580105117,6.47306324756,2.793742132284,-8.711289613188,-22.57931654121"/>
+				<HessianCell Cell="14.71127014329,22.15856800863,-4.316975713067,-13.10809507939,-6.966240105097,0.3895211159686,-2.748655678763,-2.094854730183,18.88699788861"/>
+				<HessianCell Cell="8.807873369153,-91.93169165366,1.236491984402,-1.832470728671,58.77889253186,-7.454850989316,-2.860887214066,0.4076311568691,-12.39855374804"/>
+				<HessianCell Cell="-479.5798174004,-295.107394171,9.66888353154,-303.9235357817,-899.3022561085,24.65415114654,11.57787587678,22.16674451132,23.1918636663"/>
+				<HessianCell Cell="-14.70097750293,19.9637552131,-2.515126437932,21.16349753899,-5.26966327616,-4.092469985532,-0.5260911920521,-5.350332235286,-72.27828995603"/>
+				<HessianCell Cell="427.0858852765,325.3275266762,-15.00977356733,325.3275266762,938.0653556528,-16.95787376453,-15.00977356733,-16.95787376453,138.0537796081"/>
+			</HessianRow>
+			<HessianRow NumCells="11">
+				<HessianCell Cell="-12.76155518162,-4.134867478301,0.2717895020121,-22.90173718509,-24.94268868762,-2.804036871679,4.369988846784,0.2990304454239,-19.24797406381"/>
+				<HessianCell Cell="-3.612580584295,-2.034973200553,2.427716875517,-4.477209578393,-20.55869382309,1.561994389113,-2.292160916994,-0.7883008909506,-20.88790204327"/>
+				<HessianCell Cell="-8.565473541255,-3.931983931464,2.014397502687,2.393953337695,-26.07655617298,-0.2827493431979,0.7542279449009,-0.1880198976107,-20.36604426466"/>
+				<HessianCell Cell="11.31617964804,-8.225474056861,1.193379120085,10.16377665776,-31.90788696653,-0.4848517105166,-0.9935681051017,1.213056313011,-19.57400893659"/>
+				<HessianCell Cell="0.2462432057753,8.059170706125,17.34122015047,2.78529935646,0.778006701169,7.148750817,4.384845445686,-2.100954445616,-20.47086461401"/>
+				<HessianCell Cell="-8.701928897686,-15.58773414827,-6.985031030193,-14.43532856856,-9.165001568095,-1.041560324651,0.0773577379379,1.840017598352,-81.28093392515"/>
+				<HessianCell Cell="-4.891514636383,87.2455318686,-11.78288067497,-3.350839794306,73.14785500026,-8.993673926229,-3.055723006963,1.144867127224,10.59608191451"/>
+				<HessianCell Cell="-580.5279883811,350.4673565028,2.871979795526,360.2776084289,-797.0724823749,13.45426097656,1.867997086194,7.237129948179,13.70361163344"/>
+				<HessianCell Cell="16.14014187835,-14.4241224166,-6.446069268156,23.49350528828,-7.85382253736,-2.39042500634,-2.179108906365,0.7470730779368,11.73174865265"/>
+				<HessianCell Cell="53.05950742333,-15.85038529574,-0.02654221966303,27.63349060694,17.02471428782,2.47443230177,-2.053896372765,-0.761757974121,7.233818667657"/>
+				<HessianCell Cell="538.2989690669,-381.5825185497,-0.8799597533131,-381.5825185497,826.6265561413,-8.642141301828,-0.8799597533131,-8.642141301828,138.5624669792"/>
+			</HessianRow>
+		</AtomicHessian>
+		<DistanceStretcher ID="281" NumChildren="1" NumTriggerSets="2">
+			<SymmetryTransformer ID="282" Name="MeasurementFragment" NumTriggerSets="1" ShouldMaintainAtCommonRoot="0">
+				<MonitorTriggerSet ID="283" Objects="28" EventMask="13"/>
+			</SymmetryTransformer>
+			<RestrictableMonitorTriggerSet ID="284" Objects="26,28" ShouldAllowDeletions="0" EventMask="13" IsIndexed="1" Properties="XYZ,XYZ"/>
+			<MonitorTriggerSet ID="285" Objects="282" ShouldDefineCommonRoot="0" IsIndexed="1"/>
+		</DistanceStretcher>
+	</AtomisticTreeRoot>
+</XSD>

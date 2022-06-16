@@ -1,0 +1,17 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+./analysis_xcd/analysisxcd.py
+AnalysisXCD.egg-info/PKG-INFO
+AnalysisXCD.egg-info/SOURCES.txt
+AnalysisXCD.egg-info/dependency_links.txt
+AnalysisXCD.egg-info/top_level.txt
+analysis_xcd/__init__.py
+analysis_xcd/analysisstd.py
+analysis_xcd/analysisxcd.py
+analysis_xcd/extract.py
+analysis_xcd/plots.py
+utils/__init__.py
+utils/print_header.py
+utils/setup_logger.py

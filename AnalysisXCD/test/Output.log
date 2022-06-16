@@ -1,0 +1,31 @@
+
+        ***********************************************************************
+                   Analyze XTC files from Materials Studio (AnaXTC)
+                   ------------------------------------------------
+
+                                    Version 0.1
+
+                                  Dr. Javier Ramos
+                          Macromolecular Physics Department
+                    Instituto de Estructura de la Materia (IEM-CSIC)
+                                   Madrid (Spain)
+
+                AnaXTC is an open-source python library to analyze several XTC
+                files produced by Materials Studio at the same time.
+
+                This software is distributed under the terms of the
+                GNU General Public License v3.0 (GNU GPLv3). A copy of 
+                the license (LICENSE.txt) is included with this distribution. 
+
+        ***********************************************************************
+
+        
+		*** Started: 	 24-08-2021 19:49:47 ***
+
+		Input files in /home/jramos/PROGRAMACION/SCRIPTS/MS_PERL/AnalysisXCD/test/
+
+		Solubility parameter to analyze from std file
+		================================================
+
+		*** Finished: 	 24-08-2021 19:49:47 ***
+

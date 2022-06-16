@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: AnalysisXCD
+Version: 0.1
+Summary: Python program to anlayze XCD files produced by Materials Studio.
+Home-page: UNKNOWN
+Author: Javier Ramos
+Author-email: jrdcasa@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Scientific/Engineering
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Analysis of XCD files
+
+
