@@ -53,7 +53,7 @@ if ($trajectory->NumFrames>1) {
         foreach my $bead (@$beads) {
         
             # write atom symbol and x-y-z- coordinates
-     i       
+            
             my $unwrpX = $bead->X;
             my $unwrpY = $bead->Y;
             my $unwrpZ = $bead->Z;
